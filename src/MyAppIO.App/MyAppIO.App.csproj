@@ -24,4 +24,8 @@
     <ProjectReference Include="..\MyAppIO.Data\MyAppIO.Data.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\imagens\" />
+  </ItemGroup>
+
 </Project>
