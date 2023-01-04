@@ -1,0 +1,15 @@
+C:\Users\raphael.neiva\Documents\projetos\MyAppIO\src\MyAppIO.Data\bin\Debug\net6.0\MyAppIO.Data.deps.json
+C:\Users\raphael.neiva\Documents\projetos\MyAppIO\src\MyAppIO.Data\bin\Debug\net6.0\MyAppIO.Data.dll
+C:\Users\raphael.neiva\Documents\projetos\MyAppIO\src\MyAppIO.Data\bin\Debug\net6.0\MyAppIO.Data.pdb
+C:\Users\raphael.neiva\Documents\projetos\MyAppIO\src\MyAppIO.Data\bin\Debug\net6.0\MyAppIO.Business.dll
+C:\Users\raphael.neiva\Documents\projetos\MyAppIO\src\MyAppIO.Data\bin\Debug\net6.0\MyAppIO.Business.pdb
+C:\Users\raphael.neiva\Documents\projetos\MyAppIO\src\MyAppIO.Data\obj\Debug\net6.0\MyAppIO.Data.csproj.AssemblyReference.cache
+C:\Users\raphael.neiva\Documents\projetos\MyAppIO\src\MyAppIO.Data\obj\Debug\net6.0\MyAppIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael.neiva\Documents\projetos\MyAppIO\src\MyAppIO.Data\obj\Debug\net6.0\MyAppIO.Data.AssemblyInfoInputs.cache
+C:\Users\raphael.neiva\Documents\projetos\MyAppIO\src\MyAppIO.Data\obj\Debug\net6.0\MyAppIO.Data.AssemblyInfo.cs
+C:\Users\raphael.neiva\Documents\projetos\MyAppIO\src\MyAppIO.Data\obj\Debug\net6.0\MyAppIO.Data.csproj.CoreCompileInputs.cache
+C:\Users\raphael.neiva\Documents\projetos\MyAppIO\src\MyAppIO.Data\obj\Debug\net6.0\MyAppIO.Data.csproj.CopyComplete
+C:\Users\raphael.neiva\Documents\projetos\MyAppIO\src\MyAppIO.Data\obj\Debug\net6.0\MyAppIO.Data.dll
+C:\Users\raphael.neiva\Documents\projetos\MyAppIO\src\MyAppIO.Data\obj\Debug\net6.0\refint\MyAppIO.Data.dll
+C:\Users\raphael.neiva\Documents\projetos\MyAppIO\src\MyAppIO.Data\obj\Debug\net6.0\MyAppIO.Data.pdb
+C:\Users\raphael.neiva\Documents\projetos\MyAppIO\src\MyAppIO.Data\obj\Debug\net6.0\ref\MyAppIO.Data.dll

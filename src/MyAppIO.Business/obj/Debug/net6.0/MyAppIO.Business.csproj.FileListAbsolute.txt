@@ -1,0 +1,12 @@
+C:\Users\raphael.neiva\Documents\projetos\MyAppIO\src\MyAppIO.Business\bin\Debug\net6.0\MyAppIO.Business.deps.json
+C:\Users\raphael.neiva\Documents\projetos\MyAppIO\src\MyAppIO.Business\bin\Debug\net6.0\MyAppIO.Business.dll
+C:\Users\raphael.neiva\Documents\projetos\MyAppIO\src\MyAppIO.Business\bin\Debug\net6.0\MyAppIO.Business.pdb
+C:\Users\raphael.neiva\Documents\projetos\MyAppIO\src\MyAppIO.Business\obj\Debug\net6.0\MyAppIO.Business.csproj.AssemblyReference.cache
+C:\Users\raphael.neiva\Documents\projetos\MyAppIO\src\MyAppIO.Business\obj\Debug\net6.0\MyAppIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raphael.neiva\Documents\projetos\MyAppIO\src\MyAppIO.Business\obj\Debug\net6.0\MyAppIO.Business.AssemblyInfoInputs.cache
+C:\Users\raphael.neiva\Documents\projetos\MyAppIO\src\MyAppIO.Business\obj\Debug\net6.0\MyAppIO.Business.AssemblyInfo.cs
+C:\Users\raphael.neiva\Documents\projetos\MyAppIO\src\MyAppIO.Business\obj\Debug\net6.0\MyAppIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\raphael.neiva\Documents\projetos\MyAppIO\src\MyAppIO.Business\obj\Debug\net6.0\MyAppIO.Business.dll
+C:\Users\raphael.neiva\Documents\projetos\MyAppIO\src\MyAppIO.Business\obj\Debug\net6.0\refint\MyAppIO.Business.dll
+C:\Users\raphael.neiva\Documents\projetos\MyAppIO\src\MyAppIO.Business\obj\Debug\net6.0\MyAppIO.Business.pdb
+C:\Users\raphael.neiva\Documents\projetos\MyAppIO\src\MyAppIO.Business\obj\Debug\net6.0\ref\MyAppIO.Business.dll
