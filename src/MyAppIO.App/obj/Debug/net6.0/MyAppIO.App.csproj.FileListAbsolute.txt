@@ -278,3 +278,4 @@ C:\Users\raphael.neiva\Documents\projetos\MyAppIO\src\MyAppIO.App\obj\Debug\net6
 C:\Users\raphael.neiva\Documents\projetos\MyAppIO\src\MyAppIO.App\obj\Debug\net6.0\MyAppIO.App.pdb
 C:\Users\raphael.neiva\Documents\projetos\MyAppIO\src\MyAppIO.App\obj\Debug\net6.0\MyAppIO.App.genruntimeconfig.cache
 C:\Users\raphael.neiva\Documents\projetos\MyAppIO\src\MyAppIO.App\obj\Debug\net6.0\ref\MyAppIO.App.dll
+C:\Users\raphael.neiva\Documents\projetos\MyAppIO\src\MyAppIO.App\bin\Debug\net6.0\libman.json
