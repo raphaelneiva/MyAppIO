@@ -1,4 +1,5 @@
-﻿using MyAppIO.Business.Models;
+﻿using MyAppIO.App.Extensions;
+using MyAppIO.Business.Models;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
@@ -27,7 +28,7 @@ namespace MyAppIO.App.ViewModels
 
         public string Imagem { get; set; }
 
-        //[Moeda]
+        [Moeda]
         [Required(ErrorMessage = "O campo {0} é obrigatório")]
         public decimal Valor { get; set; }
 

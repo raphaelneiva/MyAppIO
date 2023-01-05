@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "M2mU0PvccBVOZACOeJ3c4q9DEmr9GvJNpQSrHBfTQWw=",
+  "Hash": "YMJmHzfuJoiKNETwWmgs8K503EOu1Bma4kyWxlT233I=",
   "Source": "MyAppIO.App",
   "BasePath": "_content/MyAppIO.App",
   "Mode": "Default",
@@ -1103,6 +1103,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\raphael.neiva\\Documents\\projetos\\MyAppIO\\src\\MyAppIO.App\\wwwroot\\imagens\\490c592c-8c57-4eb8-a518-fa813afc04ec_JavaScript.jpg",
+      "SourceId": "MyAppIO.App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raphael.neiva\\Documents\\projetos\\MyAppIO\\src\\MyAppIO.App\\wwwroot\\",
+      "BasePath": "_content/MyAppIO.App",
+      "RelativePath": "imagens/490c592c-8c57-4eb8-a518-fa813afc04ec_JavaScript.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\490c592c-8c57-4eb8-a518-fa813afc04ec_JavaScript.jpg"
     },
     {
       "Identity": "C:\\Users\\raphael.neiva\\Documents\\projetos\\MyAppIO\\src\\MyAppIO.App\\wwwroot\\imagens\\74e4c75a-2f61-4a47-8c7e-56532317272b_jQuery.jpg",
