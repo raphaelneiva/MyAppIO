@@ -1,13 +1,11 @@
 ﻿@model MyAppIO.App.ViewModels.FornecedorViewModel
 
 @{
-    ViewData["Title"] = "Details";
+    ViewData["Title"] = "Detalhe Fornecedor";
 }
 
-<h1>Details</h1>
-
 <div>
-    <h4>FornecedorViewModel</h4>
+    <h4>@ViewData["Title"]</h4>
     <hr />
     <dl class="row">
         <dt class = "col-sm-2">
@@ -37,6 +35,6 @@
     </dl>
 </div>
 <div>
-    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
-    <a asp-action="Index">Back to List</a>
+    <a class="btn btn-dark" asp-action="Edit" asp-route-id="@Model?.Id">Editar</a> 
+    <a class="btn btn-info" href="javascript:window.history.back();">Voltar</a>
 </div>
