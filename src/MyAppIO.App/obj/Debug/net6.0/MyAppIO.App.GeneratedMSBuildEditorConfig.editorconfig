@@ -39,6 +39,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/raphael.neiva/Documents/projetos/MyAppIO/src/MyAppIO.App/Views/Fornecedores/_AtualizarEndereco.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXF9BdHVhbGl6YXJFbmRlcmVjby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/raphael.neiva/Documents/projetos/MyAppIO/src/MyAppIO.App/Views/Fornecedores/_DetalhesEndereco.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXF9EZXRhbGhlc0VuZGVyZWNvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
